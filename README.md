@@ -1,4 +1,4 @@
-# CM-Non-Commutative-Demo
+# Cognitional Mechanics (CM)-Non-Commutative-Demo
 
 ### Reclaiming Non-Commutativity from Quantum Mechanics
 
